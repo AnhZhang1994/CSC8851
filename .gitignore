@@ -1,0 +1,7 @@
+*.png
+/Volumes/T7/DLCOURSEWORK/AutogluonModels/
+/Volumes/T7/DLCOURSEWORK/best_bert_model.pth
+/Volumes/T7/DLCOURSEWORK/circl_phishing_dataset/Clean_phishing
+best_bert_model.pth
+*/best_bert_model.pth
+

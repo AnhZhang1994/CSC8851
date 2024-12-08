@@ -1,0 +1,2753 @@
+[
+    {
+        "picture": "amazing-daily-handy-speech.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "scarce-aloof-different-stage.png",
+        "labels": [
+            "Steam"
+        ]
+    },
+    {
+        "picture": "gainful-thinkable-boiling-piano.png",
+        "labels": [
+            "other"
+        ]
+    },
+    {
+        "picture": "tricky-sturdy-impossible-sweet.png",
+        "labels": [
+            "News"
+        ]
+    },
+    {
+        "picture": "old-wet-evasive-influence.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "furry-unable-rotten-entertainment.png",
+        "labels": [
+            "other"
+        ]
+    },
+    {
+        "picture": "juvenile-waiting-adorable-mall.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "muddled-nice-hanging-piano.png",
+        "labels": [
+            "BancoInter"
+        ]
+    },
+    {
+        "picture": "parched-cruel-silly-collar.png",
+        "labels": [
+            "GOOX"
+        ]
+    },
+    {
+        "picture": "substantial-responsible-needy-article.png",
+        "labels": [
+            "SPankki"
+        ]
+    },
+    {
+        "picture": "elated-woebegone-fretful-farm.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "highfalutin-waiting-kaput-complaint.png",
+        "labels": [
+            "Advenzia"
+        ]
+    },
+    {
+        "picture": "angry-puffy-sick-pin.png",
+        "labels": [
+            "Steam"
+        ]
+    },
+    {
+        "picture": "third-bewildered-smiling-north.png",
+        "labels": [
+            "Netflix"
+        ]
+    },
+    {
+        "picture": "curved-fluttering-upbeat-energy.png",
+        "labels": [
+            "EmirateNBD"
+        ]
+    },
+    {
+        "picture": "gaudy-colossal-solid-call.png",
+        "labels": [
+            "AckDupekm"
+        ]
+    },
+    {
+        "picture": "medical-yielding-highfalutin-tourist.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "substantial-quack-lumpy-media.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "aggressive-defiant-imminent-bottle.png",
+        "labels": [
+            "TaggingServer"
+        ]
+    },
+    {
+        "picture": "hushed-zany-dysfunctional-wall.png",
+        "labels": [
+            "News",
+            "Scam"
+        ]
+    },
+    {
+        "picture": "nebulous-left-dashing-dimension.png",
+        "labels": [
+            "rackspace"
+        ]
+    },
+    {
+        "picture": "trite-chief-noxious-ratio.png",
+        "labels": [
+            "ErrorPage"
+        ]
+    },
+    {
+        "picture": "cut-somber-exclusive-university.png",
+        "labels": [
+            "Advenzia"
+        ]
+    },
+    {
+        "picture": "psychedelic-observant-unsightly-inspector.png",
+        "labels": [
+            "WeTransfer"
+        ]
+    },
+    {
+        "picture": "kaput-unhealthy-rigid-system.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "melodic-marvelous-eatable-calendar.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "abstracted-excellent-plastic-insect.png",
+        "labels": [
+            "Steam"
+        ]
+    },
+    {
+        "picture": "husky-rich-crooked-debt.png",
+        "labels": [
+            "ErrorPage"
+        ]
+    },
+    {
+        "picture": "red-eight-chubby-mix.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "optimal-old-hurried-cigarette.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "known-flaky-crowded-lift.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "adhesive-concerned-expensive-competition.png",
+        "labels": [
+            "Windows"
+        ]
+    },
+    {
+        "picture": "lacking-nasty-fertile-country.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "adhoc-racial-condemned-letter.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "accurate-scintillating-picayune-administration.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "luxuriant-naughty-red-football.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "wicked-simplistic-dreary-lock.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "abundant-various-adjoining-tap.png",
+        "labels": [
+            "OtherBank"
+        ]
+    },
+    {
+        "picture": "certain-mushy-picayune-revenue.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "common-jumbled-excited-charge.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "painstaking-picayune-tense-preference.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "moldy-melted-enchanting-use.png",
+        "labels": [
+            "PayPal"
+        ]
+    },
+    {
+        "picture": "smiling-dusty-beneficial-shoulder.png",
+        "labels": [
+            "other"
+        ]
+    },
+    {
+        "picture": "pleasant-far-hurt-blind.png",
+        "labels": [
+            "Sparbanken"
+        ]
+    },
+    {
+        "picture": "three-plucky-wandering-thought.png",
+        "labels": [
+            "Webmail"
+        ]
+    },
+    {
+        "picture": "aspiring-assorted-bumpy-highway.png",
+        "labels": [
+            "OtherBank"
+        ]
+    },
+    {
+        "picture": "tawdry-aware-wiggly-definition.png",
+        "labels": [
+            "SPankki"
+        ]
+    },
+    {
+        "picture": "adventurous-sleepy-public-joke.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "halting-abounding-vigorous-log.png",
+        "labels": [
+            "TaggingServer"
+        ]
+    },
+    {
+        "picture": "nutritious-incandescent-workable-handle.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "attractive-maddening-romantic-sort.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "illegal-alcoholic-perfect-appeal.png",
+        "labels": [
+            "MultiLogo"
+        ]
+    },
+    {
+        "picture": "gray-boundless-rapid-group.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "fascinated-incandescent-silky-sport.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "pointless-eight-vulgar-increase.png",
+        "labels": [
+            "TaggingServer"
+        ]
+    },
+    {
+        "picture": "messy-soggy-purring-tomorrow.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "woozy-waiting-aspiring-sex.png",
+        "labels": [
+            "Webmail"
+        ]
+    },
+    {
+        "picture": "previous-dusty-shut-teach.png",
+        "labels": [
+            "KBC"
+        ]
+    },
+    {
+        "picture": "polite-tidy-petite-past.png",
+        "labels": [
+            "Outlook"
+        ]
+    },
+    {
+        "picture": "cold-gaping-undesirable-training.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "ablaze-lean-grubby-particular.png",
+        "labels": [
+            "News"
+        ]
+    },
+    {
+        "picture": "spotless-ill-talented-farm.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "dizzy-rampant-snobbish-setting.png",
+        "labels": [
+            "FiBank"
+        ]
+    },
+    {
+        "picture": "parallel-stale-rainy-equipment.png",
+        "labels": [
+            "Scam"
+        ]
+    },
+    {
+        "picture": "able-yellow-defective-variety.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "awful-nasty-heartbreaking-appointment.png",
+        "labels": [
+            "BancoInter"
+        ]
+    },
+    {
+        "picture": "lame-exciting-scattered-request.png",
+        "labels": [
+            "Steam"
+        ]
+    },
+    {
+        "picture": "faint-muddled-physical-husband.png",
+        "labels": [
+            "AckDupekm"
+        ]
+    },
+    {
+        "picture": "eager-anxious-idiotic-topic.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "wacky-quixotic-thirsty-combine.png",
+        "labels": [
+            "Webmail"
+        ]
+    },
+    {
+        "picture": "possessive-eager-great-priest.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "troubled-cooperative-whole-hunt.png",
+        "labels": [
+            "Steam"
+        ]
+    },
+    {
+        "picture": "domineering-acid-alleged-bridge.png",
+        "labels": [
+            "DropBox"
+        ]
+    },
+    {
+        "picture": "tranquil-afraid-changeable-post.png",
+        "labels": [
+            "Outlook"
+        ]
+    },
+    {
+        "picture": "sable-entertaining-friendly-stupid.png",
+        "labels": [
+            "Advenzia"
+        ]
+    },
+    {
+        "picture": "lethal-tense-voiceless-resort.png",
+        "labels": [
+            "AckDupekm"
+        ]
+    },
+    {
+        "picture": "foolish-thoughtful-fluffy-distance.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "inconclusive-unequal-super-clerk.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "sharp-futuristic-utopian-math.png",
+        "labels": [
+            "PayPal"
+        ]
+    },
+    {
+        "picture": "fearful-responsible-magenta-memory.png",
+        "labels": [
+            "FrImpots"
+        ]
+    },
+    {
+        "picture": "wooden-permissible-fertile-inside.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "solid-statuesque-like-recommendation.png",
+        "labels": [
+            "CIRCL Email"
+        ]
+    },
+    {
+        "picture": "towering-meaty-nappy-entertainment.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "mere-rich-youthful-training.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "neighborly-political-stupid-due.png",
+        "labels": [
+            "Advenzia"
+        ]
+    },
+    {
+        "picture": "magnificent-demonic-faint-recommendation.png",
+        "labels": [
+            "BancoInter"
+        ]
+    },
+    {
+        "picture": "tangy-previous-ill-drawing.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "unequal-tasteful-discreet-shift.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "hideous-marked-gratis-flow.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "adamant-spicy-absurd-economics.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "ugliest-ugly-yummy-routine.png",
+        "labels": [
+            "DHL"
+        ]
+    },
+    {
+        "picture": "false-muddled-windy-view.png",
+        "labels": [
+            "PirateBay"
+        ]
+    },
+    {
+        "picture": "colorful-phobic-shocking-army.png",
+        "labels": [
+            "HSBC"
+        ]
+    },
+    {
+        "picture": "striped-phobic-decisive-examination.png",
+        "labels": [
+            "TaggingServer"
+        ]
+    },
+    {
+        "picture": "bright-delicious-apathetic-distance.png",
+        "labels": [
+            "TaggingServer"
+        ]
+    },
+    {
+        "picture": "daffy-malicious-spiky-student.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "conscious-cloistered-ablaze-health.png",
+        "labels": [
+            "other"
+        ]
+    },
+    {
+        "picture": "different-glossy-smart-clock.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "aware-difficult-foamy-nurse.png",
+        "labels": [
+            "OneDrive"
+        ]
+    },
+    {
+        "picture": "handy-second-disastrous-shopping.png",
+        "labels": [
+            "FiBank"
+        ]
+    },
+    {
+        "picture": "precious-unsightly-adaptable-truth.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "clear-honorable-red-command.png",
+        "labels": [
+            "Advenzia"
+        ]
+    },
+    {
+        "picture": "thirsty-cheap-plant-award.png",
+        "labels": [
+            "Outlook"
+        ]
+    },
+    {
+        "picture": "ceaseless-ajar-lovely-estate.png",
+        "labels": [
+            "MeuEmpretimo"
+        ]
+    },
+    {
+        "picture": "fierce-aromatic-smelly-judge.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "onerous-shut-early-membership.png",
+        "labels": [
+            "OrangeWebmail"
+        ]
+    },
+    {
+        "picture": "thoughtful-waggish-incandescent-sign.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "overwrought-tense-ill-possession.png",
+        "labels": [
+            "Scam"
+        ]
+    },
+    {
+        "picture": "freezing-thankful-unequaled-shelter.png",
+        "labels": [
+            "OtherBank"
+        ]
+    },
+    {
+        "picture": "normal-adorable-annoyed-election.png",
+        "labels": [
+            "ErrorPage"
+        ]
+    },
+    {
+        "picture": "piquant-subsequent-dusty-make.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "broad-sweet-cooing-newspaper.png",
+        "labels": [
+            "rackspace"
+        ]
+    },
+    {
+        "picture": "tiresome-green-smelly-question.png",
+        "labels": [
+            "Office"
+        ]
+    },
+    {
+        "picture": "onerous-bent-voracious-ambition.png",
+        "labels": [
+            "Office"
+        ]
+    },
+    {
+        "picture": "murky-wiggly-shy-piece.png",
+        "labels": [
+            "ErrorPage"
+        ]
+    },
+    {
+        "picture": "mere-small-cute-wing.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "gamy-tearful-burly-church.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "dreary-comfortable-brawny-working.png",
+        "labels": [
+            "ErrorPage"
+        ]
+    },
+    {
+        "picture": "ambitious-curious-picayune-shock.png",
+        "labels": [
+            "BancoInter"
+        ]
+    },
+    {
+        "picture": "protective-busy-rude-depression.png",
+        "labels": [
+            "Scam"
+        ]
+    },
+    {
+        "picture": "flagrant-comfortable-towering-juice.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "low-silky-happy-double.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "subdued-glorious-somber-policy.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "greasy-heartbreaking-married-race.png",
+        "labels": [
+            "BancoInter"
+        ]
+    },
+    {
+        "picture": "gruesome-silly-illustrious-grab.png",
+        "labels": [
+            "other"
+        ]
+    },
+    {
+        "picture": "murky-grateful-wacky-vacation.png",
+        "labels": [
+            "TaggingServer"
+        ]
+    },
+    {
+        "picture": "truthful-lively-illustrious-local.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "thinkable-nervous-private-recording.png",
+        "labels": [
+            "TaggingServer"
+        ]
+    },
+    {
+        "picture": "hurt-spiky-stormy-special.png",
+        "labels": [
+            "AckDupekm"
+        ]
+    },
+    {
+        "picture": "flawless-yummy-faint-occasion.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "handsomely-marvelous-same-screen.png",
+        "labels": [
+            "KBC"
+        ]
+    },
+    {
+        "picture": "racial-tan-wanting-steak.png",
+        "labels": [
+            "Scam"
+        ]
+    },
+    {
+        "picture": "spiffy-versed-irritating-extreme.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "cheap-curly-bad-river.png",
+        "labels": [
+            "OrangeWebmail"
+        ]
+    },
+    {
+        "picture": "jazzy-spotty-fresh-bottom.png",
+        "labels": [
+            "News"
+        ]
+    },
+    {
+        "picture": "hissing-mundane-waggish-fruit.png",
+        "labels": [
+            "ErrorPage"
+        ]
+    },
+    {
+        "picture": "crowded-stingy-disgusting-serve.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "seemly-nine-pastoral-a.png",
+        "labels": [
+            "FrImpots"
+        ]
+    },
+    {
+        "picture": "nostalgic-two-silly-support.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "disgusting-brawny-spectacular-plate.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "awesome-complete-overwrought-platform.png",
+        "labels": [
+            "Excel"
+        ]
+    },
+    {
+        "picture": "mere-husky-loutish-bread.png",
+        "labels": [
+            "OtherBank"
+        ]
+    },
+    {
+        "picture": "orange-lyrical-gaudy-energy.png",
+        "labels": [
+            "Excel"
+        ]
+    },
+    {
+        "picture": "thin-huge-scandalous-relation.png",
+        "labels": [
+            "Scam"
+        ]
+    },
+    {
+        "picture": "spotless-determined-excellent-talk.png",
+        "labels": [
+            "WeTransfer"
+        ]
+    },
+    {
+        "picture": "minor-amazing-overjoyed-nurse.png",
+        "labels": [
+            "other"
+        ]
+    },
+    {
+        "picture": "parallel-pastoral-helpful-alcohol.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "naughty-numberless-wasteful-responsibility.png",
+        "labels": [
+            "BancoInter"
+        ]
+    },
+    {
+        "picture": "subsequent-wooden-tasty-neat.png",
+        "labels": [
+            "Excel"
+        ]
+    },
+    {
+        "picture": "ossified-adamant-thinkable-window.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "legal-aspiring-sturdy-air.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "thoughtless-adhesive-calm-setting.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "cool-dead-whispering-present.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "third-quixotic-useless-student.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "meaty-puzzled-tangy-touch.png",
+        "labels": [
+            "SPankki"
+        ]
+    },
+    {
+        "picture": "giddy-shallow-null-raw.png",
+        "labels": [
+            "Outlook"
+        ]
+    },
+    {
+        "picture": "bright-oceanic-old-grab.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "fair-shut-concerned-one.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "impossible-standing-vengeful-punch.png",
+        "labels": [
+            "AckDupekm"
+        ]
+    },
+    {
+        "picture": "grandiose-forgetful-marked-initiative.png",
+        "labels": [
+            "uncomplete",
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "spectacular-elastic-rabid-grade.png",
+        "labels": [
+            "Webmail"
+        ]
+    },
+    {
+        "picture": "outgoing-irate-uptight-rub.png",
+        "labels": [
+            "TaggingServer"
+        ]
+    },
+    {
+        "picture": "sedate-adorable-general-milk.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "utter-harsh-safe-designer.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "untidy-elderly-strange-end.png",
+        "labels": [
+            "ErrorPage"
+        ]
+    },
+    {
+        "picture": "dashing-delicious-insidious-science.png",
+        "labels": [
+            "ErrorPage"
+        ]
+    },
+    {
+        "picture": "vengeful-hollow-male-writer.png",
+        "labels": [
+            "Steam"
+        ]
+    },
+    {
+        "picture": "sleepy-true-ten-supermarket.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "warlike-furtive-unbiased-pound.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "skinny-slow-available-post.png",
+        "labels": [
+            "EmirateNBD"
+        ]
+    },
+    {
+        "picture": "venomous-agreeable-half-wonder.png",
+        "labels": [
+            "rackspace"
+        ]
+    },
+    {
+        "picture": "like-ready-clean-bathroom.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "tangible-thankful-adaptable-sea.png",
+        "labels": [
+            "OneDrive"
+        ]
+    },
+    {
+        "picture": "successful-unequal-inexpensive-bit.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "tasty-superficial-lively-child.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "foolish-second-orange-note.png",
+        "labels": [
+            "Webmail"
+        ]
+    },
+    {
+        "picture": "beautiful-earsplitting-plastic-management.png",
+        "labels": [
+            "PayPal"
+        ]
+    },
+    {
+        "picture": "angry-victorious-pricey-proof.png",
+        "labels": [
+            "MultiLogo"
+        ]
+    },
+    {
+        "picture": "abusive-gabby-statuesque-nurse.png",
+        "labels": [
+            "PayPal"
+        ]
+    },
+    {
+        "picture": "helpful-offbeat-important-introduction.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "lonely-colossal-creepy-mobile.png",
+        "labels": [
+            "Google"
+        ]
+    },
+    {
+        "picture": "halting-weak-free-sentence.png",
+        "labels": [
+            "SystemPlaceHolder"
+        ]
+    },
+    {
+        "picture": "hissing-unused-hypnotic-list.png",
+        "labels": [
+            "ErrorPage"
+        ]
+    },
+    {
+        "picture": "pathetic-worthless-penitent-war.png",
+        "labels": [
+            "Post"
+        ]
+    },
+    {
+        "picture": "tawdry-disgusting-furtive-performance.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "typical-one-crabby-moment.png",
+        "labels": [
+            "Scam"
+        ]
+    },
+    {
+        "picture": "clear-real-clumsy-disk.png",
+        "labels": [
+            "Webmail"
+        ]
+    },
+    {
+        "picture": "envious-pumped-flat-dream.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "squeamish-offbeat-new-goal.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "unsuitable-feigned-harmonious-read.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "voiceless-ambitious-sour-standard.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "divergent-vagabond-purring-response.png",
+        "labels": [
+            "SPankki"
+        ]
+    },
+    {
+        "picture": "half-luxuriant-handy-depth.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "ruthless-worried-earthy-conflict.png",
+        "labels": [
+            "Office"
+        ]
+    },
+    {
+        "picture": "hot-mature-electric-blue.png",
+        "labels": [
+            "MISP"
+        ]
+    },
+    {
+        "picture": "tremendous-wonderful-odd-shift.png",
+        "labels": [
+            "MultiLogo"
+        ]
+    },
+    {
+        "picture": "neat-fierce-stupendous-strain.png",
+        "labels": [
+            "Post"
+        ]
+    },
+    {
+        "picture": "merciful-crabby-cultured-brush.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "dangerous-vast-big-replacement.png",
+        "labels": [
+            "Counterstrike",
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "heavy-disillusioned-unnatural-camp.png",
+        "labels": [
+            "OtherBank"
+        ]
+    },
+    {
+        "picture": "stimulating-gratis-pointless-snow.png",
+        "labels": [
+            "SPankki"
+        ]
+    },
+    {
+        "picture": "forgetful-panoramic-bitter-blue.png",
+        "labels": [
+            "AckDupekm"
+        ]
+    },
+    {
+        "picture": "homely-humdrum-puffy-failure.png",
+        "labels": [
+            "DHL"
+        ]
+    },
+    {
+        "picture": "elegant-vast-ambitious-parent.png",
+        "labels": [
+            "SystemPlaceHolder"
+        ]
+    },
+    {
+        "picture": "willing-grandiose-testy-zone.png",
+        "labels": [
+            "ErrorPage"
+        ]
+    },
+    {
+        "picture": "mixed-painful-wonderful-youth.png",
+        "labels": [
+            "OtherBank"
+        ]
+    },
+    {
+        "picture": "inquisitive-hellish-roomy-display.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "elastic-messy-cynical-catch.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "goofy-obeisant-charming-role.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "electric-steep-tenuous-north.png",
+        "labels": [
+            "WeTransfer"
+        ]
+    },
+    {
+        "picture": "dear-curvy-known-ease.png",
+        "labels": [
+            "News"
+        ]
+    },
+    {
+        "picture": "imminent-dapper-standing-personality.png",
+        "labels": [
+            "KBC"
+        ]
+    },
+    {
+        "picture": "stupendous-decorous-shiny-mirror.png",
+        "labels": [
+            "other"
+        ]
+    },
+    {
+        "picture": "chubby-unnatural-spurious-structure.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "bright-embarrassed-venomous-hair.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "gullible-excited-parallel-speed.png",
+        "labels": [
+            "Steam"
+        ]
+    },
+    {
+        "picture": "uninterested-ignorant-smelly-pin.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "cagey-stereotyped-wholesale-society.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "charming-defeated-voracious-beat.png",
+        "labels": [
+            "BancoInter"
+        ]
+    },
+    {
+        "picture": "stupid-abaft-white-quality.png",
+        "labels": [
+            "TaggingServer"
+        ]
+    },
+    {
+        "picture": "groovy-far-large-sector.png",
+        "labels": [
+            "News"
+        ]
+    },
+    {
+        "picture": "abstracted-colossal-rich-race.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "devilish-unwritten-fast-wake.png",
+        "labels": [
+            "BancoInter"
+        ]
+    },
+    {
+        "picture": "careless-classy-vast-chest.png",
+        "labels": [
+            "Office"
+        ]
+    },
+    {
+        "picture": "slippery-bloody-tasty-wear.png",
+        "labels": [
+            "Advenzia"
+        ]
+    },
+    {
+        "picture": "sour-curved-vivacious-egg.png",
+        "labels": [
+            "other"
+        ]
+    },
+    {
+        "picture": "likeable-innate-judicious-can.png",
+        "labels": [
+            "Advenzia"
+        ]
+    },
+    {
+        "picture": "aspiring-repulsive-good-camera.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "red-free-overrated-sail.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "windy-sad-nine-touch.png",
+        "labels": []
+    },
+    {
+        "picture": "materialistic-pushy-chemical-possible.png",
+        "labels": [
+            "Webmail"
+        ]
+    },
+    {
+        "picture": "belligerent-nine-delicious-ground.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "beautiful-brown-flat-shoe.png",
+        "labels": [
+            "Scam"
+        ]
+    },
+    {
+        "picture": "ten-diligent-fertile-past.png",
+        "labels": [
+            "ForeignLanguage"
+        ]
+    },
+    {
+        "picture": "fresh-tacky-inconclusive-press.png",
+        "labels": [
+            "KBC"
+        ]
+    },
+    {
+        "picture": "economic-exultant-spurious-self.png",
+        "labels": [
+            "other"
+        ]
+    },
+    {
+        "picture": "nice-plucky-blue-stick.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "four-shaggy-last-essay.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "known-present-holistic-care.png",
+        "labels": [
+            "SPankki"
+        ]
+    },
+    {
+        "picture": "tense-majestic-acceptable-goal.png",
+        "labels": [
+            "EmirateNBD"
+        ]
+    },
+    {
+        "picture": "married-imminent-sticky-following.png",
+        "labels": [
+            "Webmail"
+        ]
+    },
+    {
+        "picture": "zany-cloudy-true-part.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "worthless-boundless-voracious-aspect.png",
+        "labels": [
+            "WeTransfer"
+        ]
+    },
+    {
+        "picture": "wiry-sudden-energetic-assignment.png",
+        "labels": [
+            "ErrorPage"
+        ]
+    },
+    {
+        "picture": "greasy-imminent-thankful-bus.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "fast-grouchy-snotty-bet.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "enthusiastic-plain-resolute-bus.png",
+        "labels": [
+            "Scam"
+        ]
+    },
+    {
+        "picture": "deafening-boorish-imported-nothing.png",
+        "labels": [
+            "OrangeWebmail"
+        ]
+    },
+    {
+        "picture": "perpetual-long-hissing-position.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "juicy-equal-rural-rock.png",
+        "labels": [
+            "CUFBank"
+        ]
+    },
+    {
+        "picture": "economic-orange-quaint-news.png",
+        "labels": [
+            "AckDupekm"
+        ]
+    },
+    {
+        "picture": "parsimonious-rabid-productive-building.png",
+        "labels": [
+            "PayPal"
+        ]
+    },
+    {
+        "picture": "small-sparkling-cloistered-library.png",
+        "labels": [
+            "other"
+        ]
+    },
+    {
+        "picture": "substantial-weary-materialistic-pollution.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "tired-abject-ludicrous-machine.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "dirty-debonair-gainful-strip.png",
+        "labels": [
+            "Amazon"
+        ]
+    },
+    {
+        "picture": "dispensable-snotty-luxuriant-policy.png",
+        "labels": [
+            "Webmail"
+        ]
+    },
+    {
+        "picture": "dramatic-ugliest-awake-king.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "faulty-pathetic-past-error.png",
+        "labels": [
+            "Advenzia"
+        ]
+    },
+    {
+        "picture": "neat-alcoholic-raspy-interest.png",
+        "labels": [
+            "KBC"
+        ]
+    },
+    {
+        "picture": "irritating-statuesque-poor-tooth.png",
+        "labels": []
+    },
+    {
+        "picture": "astonishing-premium-complete-love.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "ablaze-jazzy-tangy-file.png",
+        "labels": [
+            "CIRCL Email"
+        ]
+    },
+    {
+        "picture": "robust-drunk-rampant-trouble.png",
+        "labels": [
+            "BancoInter"
+        ]
+    },
+    {
+        "picture": "jealous-undesirable-jazzy-necessary.png",
+        "labels": [
+            "other"
+        ]
+    },
+    {
+        "picture": "successful-irate-honorable-mobile.png",
+        "labels": [
+            "WeTransfer"
+        ]
+    },
+    {
+        "picture": "greasy-possible-capable-today.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "meek-opposite-dysfunctional-implement.png",
+        "labels": [
+            "Outlook"
+        ]
+    },
+    {
+        "picture": "alike-idiotic-shy-fail.png",
+        "labels": [
+            "TaggingServer"
+        ]
+    },
+    {
+        "picture": "pale-dead-sweltering-value.png",
+        "labels": [
+            "FiBank"
+        ]
+    },
+    {
+        "picture": "thinkable-omniscient-necessary-status.png",
+        "labels": [
+            "Apple"
+        ]
+    },
+    {
+        "picture": "psychotic-thoughtful-equable-brush.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "irritating-uninterested-uneven-driver.png",
+        "labels": [
+            "DropBox"
+        ]
+    },
+    {
+        "picture": "kaput-foamy-nippy-charge.png",
+        "labels": [
+            "TaggingServer"
+        ]
+    },
+    {
+        "picture": "lopsided-actually-squealing-swim.png",
+        "labels": [
+            "Outlook"
+        ]
+    },
+    {
+        "picture": "succinct-impossible-tedious-target.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "kind-flippant-scary-friend.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "bright-wiry-silly-shelter.png",
+        "labels": [
+            "Advenzia"
+        ]
+    },
+    {
+        "picture": "pricey-spicy-important-cream.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "infamous-noisy-rare-bitter.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "vacuous-vigorous-cheap-movie.png",
+        "labels": [
+            "OrangeWebmail"
+        ]
+    },
+    {
+        "picture": "ordinary-blushing-useful-glove.png",
+        "labels": [
+            "Outlook"
+        ]
+    },
+    {
+        "picture": "steadfast-gaping-screeching-chicken.png",
+        "labels": [
+            "WeTransfer"
+        ]
+    },
+    {
+        "picture": "steady-mushy-lumpy-pension.png",
+        "labels": [
+            "other"
+        ]
+    },
+    {
+        "picture": "vengeful-ludicrous-tired-march.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "skinny-mundane-rampant-record.png",
+        "labels": [
+            "Outlook"
+        ]
+    },
+    {
+        "picture": "panicky-imperfect-breezy-suspect.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "jealous-guttural-aloof-spend.png",
+        "labels": [
+            "CIRCL Email"
+        ]
+    },
+    {
+        "picture": "various-abundant-moaning-cross.png",
+        "labels": [
+            "AmericanExpress"
+        ]
+    },
+    {
+        "picture": "grotesque-festive-devilish-advantage.png",
+        "labels": [
+            "Netflix"
+        ]
+    },
+    {
+        "picture": "mundane-joyous-rough-confusion.png",
+        "labels": [
+            "WellsFargo"
+        ]
+    },
+    {
+        "picture": "festive-cagey-economic-initiative.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "mountainous-bawdy-swift-grandfather.png",
+        "labels": [
+            "News"
+        ]
+    },
+    {
+        "picture": "swanky-useless-eminent-charge.png",
+        "labels": [
+            "other"
+        ]
+    },
+    {
+        "picture": "statuesque-resonant-heartbreaking-weekend.png",
+        "labels": [
+            "OtherBank"
+        ]
+    },
+    {
+        "picture": "clammy-lovely-demonic-guidance.png",
+        "labels": [
+            "Outlook"
+        ]
+    },
+    {
+        "picture": "regular-whole-square-boy.png",
+        "labels": [
+            "ForeignLanguage"
+        ]
+    },
+    {
+        "picture": "vengeful-rhetorical-outgoing-judge.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "adjoining-handsomely-female-scene.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "inquisitive-intelligent-miscreant-part.png",
+        "labels": [
+            "Google"
+        ]
+    },
+    {
+        "picture": "blushing-furry-tiresome-highlight.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "observant-plucky-lumpy-garage.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "prickly-historical-tedious-perception.png",
+        "labels": [
+            "AckDupekm"
+        ]
+    },
+    {
+        "picture": "green-melodic-foamy-silly.png",
+        "labels": [
+            "Steam"
+        ]
+    },
+    {
+        "picture": "alleged-abashed-clumsy-life.png",
+        "labels": [
+            "WellsFargo"
+        ]
+    },
+    {
+        "picture": "mean-rightful-helpless-park.png",
+        "labels": [
+            "TaggingServer"
+        ]
+    },
+    {
+        "picture": "adamant-accidental-hellish-feature.png",
+        "labels": [
+            "OneDrive"
+        ]
+    },
+    {
+        "picture": "tranquil-mere-pushy-snow.png",
+        "labels": [
+            "AckDupekm"
+        ]
+    },
+    {
+        "picture": "accidental-eager-grumpy-writer.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "dependent-feigned-premium-candy.png",
+        "labels": [
+            "Counterstrike",
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "rustic-lovely-zesty-spare.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "dependent-hellish-hurt-diet.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "quiet-insidious-nauseating-sense.png",
+        "labels": [
+            "Advenzia"
+        ]
+    },
+    {
+        "picture": "cultured-loud-equable-injury.png",
+        "labels": [
+            "TaggingServer"
+        ]
+    },
+    {
+        "picture": "abashed-careless-ordinary-crew.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "wistful-few-hushed-horse.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "rotten-feigned-oceanic-breast.png",
+        "labels": [
+            "other"
+        ]
+    },
+    {
+        "picture": "wistful-rustic-interesting-memory.png",
+        "labels": [
+            "ForeignLanguage"
+        ]
+    },
+    {
+        "picture": "lively-agreeable-devilish-budget.png",
+        "labels": [
+            "TaggingServer"
+        ]
+    },
+    {
+        "picture": "superb-willing-functional-flight.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "spiteful-aback-ahead-alternative.png",
+        "labels": [
+            "AckDupekm"
+        ]
+    },
+    {
+        "picture": "damaged-ratty-disgusting-square.png",
+        "labels": [
+            "News"
+        ]
+    },
+    {
+        "picture": "sneaky-delicate-grumpy-character.png",
+        "labels": [
+            "Office"
+        ]
+    },
+    {
+        "picture": "incompetent-abnormal-funny-basis.png",
+        "labels": [
+            "WellsFargo"
+        ]
+    },
+    {
+        "picture": "statuesque-furry-damaged-two.png",
+        "labels": [
+            "Advenzia"
+        ]
+    },
+    {
+        "picture": "industrious-onerous-past-smile.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "spiffy-succinct-lean-pay.png",
+        "labels": [
+            "gambling"
+        ]
+    },
+    {
+        "picture": "wanting-functional-goofy-possible.png",
+        "labels": [
+            "AckDupekm"
+        ]
+    },
+    {
+        "picture": "yummy-neat-frantic-sound.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "wrathful-plant-majestic-perception.png",
+        "labels": [
+            "Scam",
+            "other"
+        ]
+    },
+    {
+        "picture": "zealous-parsimonious-smiling-fun.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "dynamic-prickly-tasteless-bus.png",
+        "labels": [
+            "Webmail"
+        ]
+    },
+    {
+        "picture": "unsightly-quaint-good-surround.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "hesitant-curly-freezing-day.png",
+        "labels": [
+            "FiBank"
+        ]
+    },
+    {
+        "picture": "frightened-different-likeable-sort.png",
+        "labels": [
+            "other"
+        ]
+    },
+    {
+        "picture": "supreme-direful-cautious-agent.png",
+        "labels": [
+            "OrangeWebmail"
+        ]
+    },
+    {
+        "picture": "ashamed-robust-acrid-physics.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "jobless-safe-spiky-chocolate.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "living-solid-ritzy-file.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "humorous-thin-disgusted-eye.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "garrulous-superb-luxuriant-tomorrow.png",
+        "labels": [
+            "Office"
+        ]
+    },
+    {
+        "picture": "like-overt-fantastic-profile.png",
+        "labels": [
+            "NationalBank"
+        ]
+    },
+    {
+        "picture": "therapeutic-tender-fair-map.png",
+        "labels": [
+            "KBC"
+        ]
+    },
+    {
+        "picture": "fixed-light-tenuous-minimum.png",
+        "labels": [
+            "MultiLogo"
+        ]
+    },
+    {
+        "picture": "placid-abhorrent-excited-entertainment.png",
+        "labels": [
+            "FiBank"
+        ]
+    },
+    {
+        "picture": "receptive-humdrum-ratty-competition.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "ceaseless-unequaled-malicious-ride.png",
+        "labels": [
+            "KBC"
+        ]
+    },
+    {
+        "picture": "thin-famous-greasy-produce.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "frequent-rainy-clean-problem.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "righteous-super-proud-big.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "habitual-aboard-handy-officer.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "grateful-stingy-faded-pack.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "coherent-determined-sour-foot.png",
+        "labels": [
+            "Steam"
+        ]
+    },
+    {
+        "picture": "amuck-perpetual-rightful-control.png",
+        "labels": []
+    },
+    {
+        "picture": "obtainable-squeamish-demonic-protection.png",
+        "labels": [
+            "EmirateNBD"
+        ]
+    },
+    {
+        "picture": "overjoyed-aberrant-cluttered-shine.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "colorful-macho-ratty-treat.png",
+        "labels": [
+            "other"
+        ]
+    },
+    {
+        "picture": "stingy-versed-kindly-client.png",
+        "labels": [
+            "OtherBank"
+        ]
+    },
+    {
+        "picture": "numerous-misty-meek-today.png",
+        "labels": [
+            "Webmail"
+        ]
+    },
+    {
+        "picture": "healthy-nebulous-silent-feel.png",
+        "labels": [
+            "Office"
+        ]
+    },
+    {
+        "picture": "toothsome-stingy-few-press.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "calculating-protective-creepy-look.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "zonked-silent-snobbish-review.png",
+        "labels": [
+            "CIRCL Email"
+        ]
+    },
+    {
+        "picture": "rotten-young-decorous-object.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "condemned-separate-quiet-concept.png",
+        "labels": [
+            "EmirateNBD"
+        ]
+    },
+    {
+        "picture": "ossified-puffy-fortunate-specialist.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "squealing-versed-stormy-senior.png",
+        "labels": [
+            "Advenzia"
+        ]
+    },
+    {
+        "picture": "shrill-internal-hurried-chain.png",
+        "labels": [
+            "HSBC"
+        ]
+    },
+    {
+        "picture": "lamentable-eminent-miscreant-arm.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "fanatical-absurd-abject-cancel.png",
+        "labels": [
+            "FiBank"
+        ]
+    },
+    {
+        "picture": "dry-puzzling-six-fear.png",
+        "labels": [
+            "TaggingServer"
+        ]
+    },
+    {
+        "picture": "stupendous-picayune-coherent-quiet.png",
+        "labels": [
+            "TaggingServer"
+        ]
+    },
+    {
+        "picture": "nauseating-workable-windy-sink.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "physical-ruthless-fat-anybody.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "auspicious-fragile-cute-corner.png",
+        "labels": [
+            "WeTransfer"
+        ]
+    },
+    {
+        "picture": "economic-hesitant-modern-junior.png",
+        "labels": [
+            "ErrorPage"
+        ]
+    },
+    {
+        "picture": "best-labored-penitent-copy.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "onerous-curly-stereotyped-bathroom.png",
+        "labels": [
+            "Steam"
+        ]
+    },
+    {
+        "picture": "eager-smiling-substantial-support.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "closed-secretive-icy-issue.png",
+        "labels": [
+            "Webmail"
+        ]
+    },
+    {
+        "picture": "tangy-earsplitting-uneven-leave.png",
+        "labels": [
+            "SPankki"
+        ]
+    },
+    {
+        "picture": "best-rural-wise-design.png",
+        "labels": [
+            "Webmail"
+        ]
+    },
+    {
+        "picture": "hesitant-harmonious-low-nature.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "broad-round-unbecoming-scheme.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "ugly-squeamish-illustrious-temperature.png",
+        "labels": [
+            "Advenzia"
+        ]
+    },
+    {
+        "picture": "guttural-xenophobic-divergent-marketing.png",
+        "labels": [
+            "Outlook"
+        ]
+    },
+    {
+        "picture": "unkempt-nutty-male-platform.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "soft-gullible-famous-post.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "majestic-labored-better-pop.png",
+        "labels": [
+            "BancoInter"
+        ]
+    },
+    {
+        "picture": "brief-obscene-huge-discount.png",
+        "labels": [
+            "Steam"
+        ]
+    },
+    {
+        "picture": "graceful-nutty-wonderful-nobody.png",
+        "labels": [
+            "other"
+        ]
+    },
+    {
+        "picture": "gruesome-spiteful-guarded-annual.png",
+        "labels": [
+            "Steam"
+        ]
+    },
+    {
+        "picture": "puny-sour-foolish-active.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "learned-selfish-elfin-growth.png",
+        "labels": [
+            "BancoInter"
+        ]
+    },
+    {
+        "picture": "dashing-wide-diligent-sad.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "open-handsomely-clean-fun.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "striped-ultra-repulsive-spare.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "right-impartial-spicy-oil.png",
+        "labels": [
+            "OneDrive"
+        ]
+    },
+    {
+        "picture": "flaky-premium-wasteful-god.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "decisive-murky-windy-amount.png",
+        "labels": [
+            "other"
+        ]
+    },
+    {
+        "picture": "perpetual-magenta-naive-security.png",
+        "labels": [
+            "Windows"
+        ]
+    },
+    {
+        "picture": "wrathful-lyrical-alcoholic-county.png",
+        "labels": [
+            "BancoInter"
+        ]
+    },
+    {
+        "picture": "lively-familiar-cheap-progress.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "sore-nine-condemned-system.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "savory-highfalutin-slimy-control.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "fortunate-changeable-eatable-market.png",
+        "labels": [
+            "ErrorPage"
+        ]
+    },
+    {
+        "picture": "scary-homely-successful-matter.png",
+        "labels": [
+            "ErrorPage"
+        ]
+    },
+    {
+        "picture": "rich-endurable-many-ask.png",
+        "labels": [
+            "ADBC"
+        ]
+    },
+    {
+        "picture": "one-naive-filthy-membership.png",
+        "labels": [
+            "TaggingServer"
+        ]
+    },
+    {
+        "picture": "stingy-deep-demonic-baseball.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "elite-nutty-opposite-weight.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "gentle-polite-lowly-atmosphere.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "numerous-sticky-earthy-evidence.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "innocent-chief-spurious-television.png",
+        "labels": [
+            "Advenzia"
+        ]
+    },
+    {
+        "picture": "lively-smart-efficient-ask.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "thick-sweet-sparkling-estate.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "null-hungry-wry-success.png",
+        "labels": [
+            "N26"
+        ]
+    },
+    {
+        "picture": "awesome-neighborly-black-wonder.png",
+        "labels": [
+            "Scam"
+        ]
+    },
+    {
+        "picture": "feigned-separate-many-surround.png",
+        "labels": [
+            "Outlook"
+        ]
+    },
+    {
+        "picture": "cooing-soft-rotten-insurance.png",
+        "labels": [
+            "OneDrive"
+        ]
+    },
+    {
+        "picture": "determined-steadfast-spicy-kind.png",
+        "labels": [
+            "ABSA"
+        ]
+    },
+    {
+        "picture": "maniacal-skinny-ordinary-suggestion.png",
+        "labels": [
+            "TaggingServer"
+        ]
+    },
+    {
+        "picture": "juicy-ugliest-scrawny-delay.png",
+        "labels": [
+            "Office"
+        ]
+    },
+    {
+        "picture": "six-cluttered-holistic-guide.png",
+        "labels": [
+            "OtherBank"
+        ]
+    },
+    {
+        "picture": "profuse-telling-xenophobic-interaction.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "tasteful-creepy-coherent-language.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "unruly-material-historical-context.png",
+        "labels": [
+            "AckDupekm"
+        ]
+    },
+    {
+        "picture": "ruddy-flagrant-tedious-trouble.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "vague-outstanding-wrong-while.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "brainy-colorful-tightfisted-south.png",
+        "labels": [
+            "Advenzia"
+        ]
+    },
+    {
+        "picture": "melodic-organic-obsequious-stranger.png",
+        "labels": [
+            "AckDupekm"
+        ]
+    },
+    {
+        "picture": "verdant-lumpy-lumpy-steal.png",
+        "labels": [
+            "Advenzia"
+        ]
+    },
+    {
+        "picture": "available-satisfying-spiky-black.png",
+        "labels": [
+            "other"
+        ]
+    },
+    {
+        "picture": "third-jumpy-bent-space.png",
+        "labels": [
+            "Webmail"
+        ]
+    },
+    {
+        "picture": "nervous-past-unbiased-date.png",
+        "labels": [
+            "Advenzia"
+        ]
+    },
+    {
+        "picture": "habitual-ordinary-purring-shame.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "dirty-willing-brainy-plane.png",
+        "labels": [
+            "TaggingServer"
+        ]
+    },
+    {
+        "picture": "handsomely-wasteful-drunk-newspaper.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "zippy-piquant-fascinated-bag.png",
+        "labels": [
+            "Office"
+        ]
+    },
+    {
+        "picture": "common-unarmed-bustling-game.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "cowardly-willing-efficacious-poem.png",
+        "labels": []
+    },
+    {
+        "picture": "perpetual-overjoyed-unruly-minute.png",
+        "labels": [
+            "ErrorPage"
+        ]
+    },
+    {
+        "picture": "better-smart-opposite-television.png",
+        "labels": [
+            "Counterstrike"
+        ]
+    },
+    {
+        "picture": "womanly-fluttering-milky-row.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "simplistic-nondescript-naughty-campaign.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "psychotic-odd-slimy-member.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "decisive-vagabond-unknown-science.png",
+        "labels": [
+            "other"
+        ]
+    },
+    {
+        "picture": "probable-necessary-grandiose-purpose.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "past-noiseless-accurate-stranger.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "psychotic-mixed-obsequious-arm.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "funny-abstracted-equable-ask.png",
+        "labels": [
+            "Office"
+        ]
+    },
+    {
+        "picture": "scarce-nervous-acrid-awareness.png",
+        "labels": [
+            "Outlook"
+        ]
+    },
+    {
+        "picture": "youthful-smiling-abrasive-lab.png",
+        "labels": [
+            "AmericanExpress"
+        ]
+    },
+    {
+        "picture": "fuzzy-nifty-disastrous-bonus.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "plucky-secret-dusty-window.png",
+        "labels": [
+            "Microsoft"
+        ]
+    },
+    {
+        "picture": "known-disturbed-curved-schedule.png",
+        "labels": [
+            "Excel"
+        ]
+    },
+    {
+        "picture": "exclusive-sweltering-rampant-party.png",
+        "labels": [
+            "Windows"
+        ]
+    },
+    {
+        "picture": "nippy-succinct-feigned-letter.png",
+        "labels": [
+            "uncomplete"
+        ]
+    },
+    {
+        "picture": "fat-noxious-doubtful-walk.png",
+        "labels": [
+            "Steam"
+        ]
+    }
+]
