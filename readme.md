@@ -32,9 +32,24 @@ Labels (brands) are at ```./circl_phishing_dataset/*.json ```
 3. We convert the image and text to embeddings via [CLIP (Contrastive Language-Image Pre-Trainin)](https://github.com/openai/CLIP)
 
 ## Training 
-AutoGluon is an auto machine learning tool. It trains base models of KNeighborsUnif, KNeighborsDist, NeuralNetFastAI, LightGBMX, LightGBM, RandomForestGini, RandomForestEntr, CatBoost, ExtraTreesGini, ExtraTreesEntr, XGBoost, NeuralNetTorch, LightGBMLarge, fine tune hyperparameters automatically, and select the model with the best performace. It also uses a Greedy Weighted Ensemble algorithm to combine the outputs of multiple base models to produce a final prediction.
+**AutoGluon** is an auto machine learning tool. It trains base models of KNeighborsUnif, KNeighborsDist, NeuralNetFastAI, LightGBMX, LightGBM, RandomForestGini, RandomForestEntr, CatBoost, ExtraTreesGini, ExtraTreesEntr, XGBoost, NeuralNetTorch, LightGBMLarge, fine tune hyperparameters automatically, and select the model with the best performace. It also uses a Greedy Weighted Ensemble algorithm to combine the outputs of multiple base models to produce a final prediction.
+```
+**KNeighborsUnif**: K-Nearest Neighbors (Uniform Weights)
+**KNeighborsDist**: K-Nearest Neighbors (Distance Weights)
+**NeuralNetFastAI**: Neural Network using the FastAI framework
+**LightGBMX**: Light Gradient Boosting Machine (Custom Hyperparameters X)
+**LightGBM**: Light Gradient Boosting Machine (Default Parameters)
+**RandomForestGini**: Random Forest Classifier (Gini Impurity Criterion)
+**RandomForestEntr**: Random Forest Classifier (Entropy Criterion)
+**CatBoost**: Categorical Boosting (CatBoost) Model
+**ExtraTreesGini**: Extremely Randomized Trees (Gini Impurity Criterion)
+**ExtraTreesEntr**: Extremely Randomized Trees (Entropy Criterion)
+**XGBoost**: Extreme Gradient Boosting (XGBoost) Model
+**NeuralNetTorch**: Neural Network using PyTorch
+**LightGBMLarge**: Light Gradient Boosting Machine (Larger Model)
+```
 
-Besides AutoGluon, we also train SVM, CNN, MLP, and Transformer. We use early stop to get the appropriate epoch.
+Besides AutoGluon, we also train **SVM** (Support Vector Machine), **CNN** (Convolutional Neural Network), **MLP** (Multi-Layer Perceptron), and **Transformer**. We use early stop to get the appropriate epoch.
 
 For each model, we train using multidal data (text + image), image data only, and text data only, respectively.
 
